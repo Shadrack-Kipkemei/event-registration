@@ -1,0 +1,150 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Tech Conference 2024",
+      "date": "2024-11-01",
+      "time": "10:00 AM",
+      "location": "Convention Center",
+      "description": "A conference for tech enthusiasts to explore the latest trends in technology.",
+      "capacity": 500,
+      "tickets_sold": 150
+    },
+    {
+      "id": "2",
+      "name": "Art Workshop",
+      "date": "2024-11-05",
+      "time": "2:00 PM",
+      "location": "Art Gallery",
+      "description": "An interactive workshop for artists to learn and create together.",
+      "capacity": 200,
+      "tickets_sold": 75
+    },
+    {
+      "id": "3",
+      "name": "Music Festival",
+      "date": "2024-12-15",
+      "time": "5:00 PM",
+      "location": "City Park",
+      "description": "An outdoor festival featuring live performances from various bands and artists.",
+      "capacity": 1000,
+      "tickets_sold": 600
+    }
+  ],
+  "registrations": [
+    {
+      "event_id": 1,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "id": "1e4f"
+    },
+    {
+      "event_id": 2,
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "id": "3a55"
+    },
+    {
+      "event_id": 3,
+      "name": "Carol Davis",
+      "email": "carol@example.com",
+      "id": "d290"
+    },
+    {
+      "id": "8013",
+      "name": "Shadrack",
+      "email": "shadrackkemei2019@gmail.com",
+      "phoneNumber": "0727623191",
+      "attendees": "2",
+      "event_id": "1"
+    },
+    {
+      "id": "21a3",
+      "name": "Shadrack",
+      "email": "shadrackkemei2019@gmail.com",
+      "phoneNumber": "0727623191",
+      "attendees": "2",
+      "event_id": "1"
+    },
+    {
+      "id": "1478",
+      "name": "Shadrack",
+      "email": "shadrackkemei2019@gmail.com",
+      "phoneNumber": "0727623191",
+      "attendees": "2",
+      "event_id": "2"
+    },
+    {
+      "id": "0082",
+      "name": "Audrey",
+      "email": "audrey2@gmail.com",
+      "phoneNumber": "0727623191",
+      "attendees": "4",
+      "event_id": "2"
+    },
+    {
+      "id": "60c6",
+      "name": "MARTIN BUNDI",
+      "email": "bundimartins71@gmail.com",
+      "phoneNumber": "0727623191",
+      "attendees": "3",
+      "event_id": "1"
+    },
+    {
+      "id": "d615",
+      "name": "Ian",
+      "email": "ian5@gmail.com",
+      "phoneNumber": "0701006624",
+      "attendees": "5",
+      "event_id": "3"
+    },
+    {
+      "name": "Luke",
+      "email": "luke@gmail.com",
+      "phoneNumber": "0727564312",
+      "attendees": "1",
+      "event_id": "6b44",
+      "id": "6b44"
+    },
+    {
+      "id": "7718",
+      "name": "joy",
+      "email": "mwende47@gmail.com",
+      "phoneNumber": "056873217",
+      "attendees": "4",
+      "event_id": "3"
+    },
+    {
+      "id": "3d6e",
+      "name": "shirleen chebet",
+      "email": "shirlynshirley9@gmail.com",
+      "phoneNumber": "0716297735",
+      "attendees": "1",
+      "event_id": "2"
+    },
+    {
+      "id": "c6c4",
+      "name": "shirleen chebet",
+      "email": "shirlynshirley9@gmail.com",
+      "phoneNumber": "0716297735",
+      "attendees": "1",
+      "event_id": "3"
+    },
+    {
+      "name": "Moses",
+      "email": "moses@gmail.com",
+      "phoneNumber": "0765467890",
+      "attendees": "2",
+      "event_id": "2ec6",
+      "id": "2ec6"
+    },
+    {
+      "name": "Faith",
+      "email": "faith@gmail.com",
+      "phoneNumber": "0726890756",
+      "attendees": "1",
+      "event_id": "6ac8",
+      "id": "6ac8"
+    }
+  ]
+}

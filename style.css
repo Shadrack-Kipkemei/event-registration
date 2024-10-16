@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    /* background-color: #5AA6A6; */
+    background-image: url(images/banner.png);
+}
+
+#event-registration {
+    background: #E6FFFF;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 600px;
+}
+
+input, select, button {
+    width: 90%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 9px;
+    margin: 5px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    background-color: #ff008d
+}

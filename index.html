@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Registration</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="event-registration">
+        <h1>Upcoming Events</h1>
+        <div id="events">
+            <!-- Event details will be inserted here dynamically -->
+        </div>
+        <form id="registration-form">
+            <h2>Register for an Event</h2>
+            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="email" id="email" placeholder="Your Email" required>
+            <input type="number" id="phone-number" placeholder="Phone Number" required>
+            <input type="text" id="attendees" placeholder="No. of Persons" required>
+            <select id="event-select-registration" required>
+                <!-- Options will be populated dynamically -->
+            </select>
+            <button type="submit">Register</button>
+        </form>
+        <div id="confirmation" class="hidden">
+            <p>Thank you for registering!</p>
+        </div>
+        <button id="toggle-update">Update Registration</button>
+        <div id="update-registration" style="display: none;">
+            <form id="update-form">
+                <h2>Update Registration</h2>
+                <input type="text" id="updatename" placeholder="New Name" required>
+                <input type="email" id="updateEmail" placeholder="New Email" required>
+                <input type="number" id="updatePhoneNumber" placeholder="New Phone Number" required>
+                <input type="text" id="updateAttendees" placeholder="New No. of Persons" required>
+                <select id="event-select-update" required>
+                    <!-- Options will be populated dynamically -->
+                </select>
+                <button type="submit">Update</button>
+            </form>
+            <div id="updateConfirmation" class="hidden">
+                <p>Thank you for updating your registration</p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
