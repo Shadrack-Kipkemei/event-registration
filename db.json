@@ -123,12 +123,12 @@
       "event_id": "2"
     },
     {
-      "id": "c6c4",
-      "name": "shirleen chebet",
-      "email": "shirlynshirley9@gmail.com",
-      "phoneNumber": "0716297735",
-      "attendees": "1",
-      "event_id": "3"
+      "name": "Ida odinga",
+      "email": "idaodinga@gmail.com",
+      "phoneNumber": "0723654378",
+      "attendees": "5",
+      "event_id": "c6c4",
+      "id": "c6c4"
     },
     {
       "name": "Moses",
@@ -139,12 +139,52 @@
       "id": "2ec6"
     },
     {
-      "name": "Faith",
-      "email": "faith@gmail.com",
-      "phoneNumber": "0726890756",
-      "attendees": "1",
+      "name": "Davies Njoroge",
+      "email": "daviesnjoroge@gmail.com",
+      "phoneNumber": "0712896743",
+      "attendees": "2",
       "event_id": "6ac8",
       "id": "6ac8"
+    },
+    {
+      "id": "1d8c",
+      "name": "Faith Makau",
+      "email": "faithmakau@gmail.com",
+      "phoneNumber": "0723123123",
+      "attendees": "6",
+      "event_id": "3"
+    },
+    {
+      "id": "ed39",
+      "name": "Lydia Mutai",
+      "email": "lydiamutai@gmail.com",
+      "phoneNumber": "0783452976",
+      "attendees": "2",
+      "event_id": "2"
+    },
+    {
+      "id": "af89",
+      "name": "Elphas Masheti",
+      "email": "elphasmasheti@gmail.com",
+      "phoneNumber": "0798764623",
+      "attendees": "2",
+      "event_id": "2"
+    },
+    {
+      "id": "9e66",
+      "name": "Danstan Toel",
+      "email": "danstantoel@gmail.com",
+      "phoneNumber": "0734689703",
+      "attendees": "3",
+      "event_id": "3"
+    },
+    {
+      "id": "ca17",
+      "name": "Viola Tuwei",
+      "email": "violatuwei@gmail.com",
+      "phoneNumber": "0745678903",
+      "attendees": "2",
+      "event_id": "3"
     }
   ]
 }
