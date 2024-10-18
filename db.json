@@ -179,12 +179,28 @@
       "event_id": "3"
     },
     {
-      "id": "ca17",
-      "name": "Viola Tuwei",
-      "email": "violatuwei@gmail.com",
-      "phoneNumber": "0745678903",
+      "name": "Abel Mutua",
+      "email": "abelmutua@gmail.com",
+      "phoneNumber": "0714367349",
+      "attendees": "3",
+      "event_id": "ca17",
+      "id": "ca17"
+    },
+    {
+      "id": "ce64",
+      "name": "Wayne Roony",
+      "email": "wyneroony@gmail.com",
+      "phoneNumber": "0712345674",
       "attendees": "2",
       "event_id": "3"
+    },
+    {
+      "id": "d9a8",
+      "name": "Levi Mutua",
+      "email": "levimutua@gmail.com",
+      "phoneNumber": "0734678342",
+      "attendees": "2",
+      "event_id": "1"
     }
   ]
 }
