@@ -115,7 +115,7 @@ function handleFormSubmission(url, method, data, formId, confirmationId) {
         // Hide confirmation after a few seconds
         setTimeout(() => {
             document.getElementById(confirmationId).classList.add("hidden");
-        }, 3000);
+        }, 5000);
     })
     .catch(error => console.error(`Error ${method === 'POST' ? 'registering' : 'updating'} for event:`, error));
 }
