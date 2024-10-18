@@ -211,12 +211,12 @@
       "event_id": "3"
     },
     {
-      "id": "4e26",
-      "name": "Keith",
-      "email": "keith@gmail.com",
-      "phoneNumber": "0789345672",
+      "name": "Hamadi Dan",
+      "email": "hamadidan@gmail.com",
+      "phoneNumber": "0746893640",
       "attendees": "1",
-      "event_id": "2"
+      "event_id": "4e26",
+      "id": "4e26"
     },
     {
       "name": "Fahmo",
@@ -225,6 +225,14 @@
       "attendees": "1",
       "event_id": "d580",
       "id": "d580"
+    },
+    {
+      "id": "b2ec",
+      "name": "Yusuf Juma",
+      "email": "yusufjuma@gmail.com",
+      "phoneNumber": "0727345189",
+      "attendees": "2",
+      "event_id": "2"
     }
   ]
 }
